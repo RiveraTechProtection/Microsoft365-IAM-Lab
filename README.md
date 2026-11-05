@@ -82,7 +82,7 @@ See [`evidence/`](evidence/) and [`docs/EVIDENCE_INDEX.md`](docs/EVIDENCE_INDEX.
 ## Artifacts
 
 - [`docs/Q4-Financial-Report-TEST.pdf`](docs/Q4-Financial-Report-TEST.pdf) — sample Finance report with fictional amounts.
-- [`docs/RTP_Payroll_Operations_Report_TEST.docx`](docs/RTP_Payroll_Operations_Report_TEST.docx) — sample Payroll document for edit testing.
+- [View Payroll Operations Report (PDF)](docs/RTP_Payroll_Operations_Report_TEST.pdf)
 - [`docs/WEBSITE_CASE_STUDY.md`](docs/WEBSITE_CASE_STUDY.md) — short website copy.
 
 ## What I learned
