@@ -31,4 +31,4 @@ Microsoft 365 Business Premium · Microsoft Entra ID · SharePoint Online · Mic
 5. **Real-world negative test:** SharePoint denied Shay access to Payroll Operations.
 
 ## Call to action
-[View full GitHub case study](INSERT_GITHUB_REPOSITORY_URL)
+[View full GitHub case study](https://github.com/RiveraTechProtection/Microsoft365-IAM-Lab)
