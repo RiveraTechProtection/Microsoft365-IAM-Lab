@@ -1,6 +1,6 @@
 # Microsoft 365 Identity & Access Management Lab
 
-**RiveraTech Protection | Simulated enterprise administration and authorization case study | November 2026**
+**RiveraTechProtection | Simulated enterprise administration and authorization case study | November 2026**
 
 > **Lab simulation:** All employees, finance figures, payroll records and workflows are fictitious. The tenant was created for training; this is not a production deployment or independently certified security assessment.
 
