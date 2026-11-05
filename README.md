@@ -84,7 +84,6 @@ See [`evidence/`](evidence/) and [`docs/EVIDENCE_INDEX.md`](docs/EVIDENCE_INDEX.
 - [`docs/Q4-Financial-Report-TEST.pdf`](docs/Q4-Financial-Report-TEST.pdf) — sample Finance report with fictional amounts.
 - [`docs/RTP_Payroll_Operations_Report_TEST.docx`](docs/RTP_Payroll_Operations_Report_TEST.docx) — sample Payroll document for edit testing.
 - [`docs/WEBSITE_CASE_STUDY.md`](docs/WEBSITE_CASE_STUDY.md) — short website copy.
-- [`docs/RESUME_PROJECT.md`](docs/RESUME_PROJECT.md) — résumé-ready project entry.
 
 ## What I learned
 
