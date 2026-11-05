@@ -1,6 +1,6 @@
 # Microsoft 365 IAM & Least-Privilege Access Control
 
-**RiveraTech Protection | Hands-on cybersecurity / IT administration project**
+**RiveraTechProtection | Hands-on cybersecurity / IT administration project**
 
 ## The challenge
 How can an organization make sure employees have the access needed for their jobs—without giving everyone in the same department access to sensitive files?
